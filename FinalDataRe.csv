@@ -1,4 +1,0 @@
-EmployedCompanyCode,EmploymentTypeCode,GenderCode,GradeCode,GroupNumber,JoinedTypeCode,LivingCode,MaritalStatus,MinimumOvertimePayment,NoOfChildren,NoOfDependants,ReligionCode,ReportingPersonCode,TravelModeCode,Deleted,FinalScore,PastEmployment,SpouseAlive,SpouseDisabled,SpouseOccupation,Age,married,Retire,Service,Name
-0,197,1,1,0,0,0,,0,0,0,1,99.0,0,1,0.0,0.0,1,0,0.0,39,0,0,0,data analys
-0,74,2,0,0,0,0,,0,0,0,0,99.0,0,1,0.0,0.0,1,0,0.0,25,0,0,0,data analys
-0,197,1,1,0,0,0,,0,0,0,1,99.0,0,0,0.0,0.0,1,0,0.0,39,0,0,1,data analys
